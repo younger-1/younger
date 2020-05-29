@@ -8,7 +8,7 @@ publishDir = "docs"
 # Site configuration
 # Icon: https://RemixIcon.com/
 
-baseURL = "https://younger-1.github.io/younger/"
+baseURL = "https://younger-1.github.io/"
 title = "HUGO-THEME-TONY"
 languageCode = "en"
 defaultContentLanguage = "en"

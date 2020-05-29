@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>HUGO-THEME-TONY</title>
-        <link>https://younger-1.github.io/younger/</link>
+        <link>https://younger-1.github.io/</link>
         <description></description>
         <generator>Hugo 0.71.1 https://gohugo.io/</generator>
         
@@ -21,10 +21,30 @@
             <webMaster>mail@example.com (HUGO-THEME-TONY)</webMaster>
         
         
-        <lastBuildDate>Fri, 29 May 2020 12:06:40 +0800</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2020 12:14:30 +0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss+xml" href="https://younger-1.github.io/younger/rss.xml" />
+            <atom:link rel="self" type="application/rss+xml" href="https://younger-1.github.io/rss.xml" />
         
+        
+            
+                <item>
+                    <title>Hello World</title>
+                    <link>https://younger-1.github.io/posts/hello-world/</link>
+                    <guid isPermaLink="true">https://younger-1.github.io/posts/hello-world/</guid>
+                    <pubDate>Fri, 29 May 2020 10:24:58 +0800</pubDate>
+                    <description><![CDATA[]]></description>
+                    
+                        
+                    
+                    
+                        
+                            
+                        
+                            
+                        
+                    
+                </item>
+            
         
     </channel>
 </rss>
